@@ -2,6 +2,9 @@
 
 This project demonstrates a complete Morse Code communication system using two Arduino Uno boards. The first board acts as the transmitter (with buzzer, LED, and button), and the second one is the receiver, decoding and displaying characters on an I2C LCD screen.
 
+🔗 Try it on Tinkercad:
+👉 https://www.tinkercad.com/things/2lkOvkTUhEQ-morse-code
+
 📦 Features
 
     🔴 Morse code generation with buzzer + LED
